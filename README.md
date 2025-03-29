@@ -1,2 +1,13 @@
-# Music-Streaming-Platform-Spotify-Clone-
-A music streaming web app inspired by Spotify, created with HTML, CSS, and Bootstrap. Features a modern and responsive music player UI with play, pause, and seek controls. Designed to provide a sleek and engaging user experience.
+# Music Streaming Platform 🎵  
+
+A **music streaming web app** inspired by **Spotify**, built using **HTML, CSS, and Bootstrap**. This project features a modern UI with a music player interface.  
+
+## Features  
+- Responsive music player UI  
+- Play, pause, and seek controls  
+- Modern and sleek design with Bootstrap  
+
+## Technologies Used  
+- HTML  
+- CSS  
+- Bootstrap  
